@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.round-icon {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.doctor-info {
+  padding: 100px;
+}
+
+.round-icon {
+}
+.doctor-name {
+  font: bold 18px;
+}
+.doctor-description {
+}
+.tag-container {
+}
+.doctor-tag {
+}
