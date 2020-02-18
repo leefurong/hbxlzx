@@ -38,6 +38,9 @@ export async function fetch(target, params) {
 }
 
 export async function fetchGroup(groupName) {
+  // TODO 连接服务器的事情搞定后， 我们把服务器上的数据和本地的比对。
+  // 将医生的状态设为在线/离线/忙线。
+  // 如果某一个id在服务器上没有， 就从本地移除。
   return doctors.filter(
     groupName === '*' ? _ => true : doctor => contains(doctor.tags, groupName)
   );
