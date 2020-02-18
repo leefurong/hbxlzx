@@ -16,12 +16,7 @@ export default ({ info }) => {
         multipleLine
         onClick={() => { window.location.replace(supportURL); }}>
         {name}<Brief>{intro}</Brief>
-
-        <div className="tag-container">
-        {tags.split('').map(tag => <Tag tag={tag} key={tag} />)}
-      </div>
-      
-  </Item>
-</List>
-)
+      </Item>
+    </List>
+  </div>)
 }
