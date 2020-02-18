@@ -8,9 +8,7 @@ const Brief = Item.Brief;
 export default ({ info }) => {
   const { avatar, name, intro, tags, supportURL } = info
   return (
-
-
-  <List className="doctor-info card">
+    <List className="doctor-info card">
       <Item arrow="horizontal" align="top"
         thumb={avatar}
         multipleLine
@@ -18,5 +16,5 @@ export default ({ info }) => {
         {name}<Brief>{intro}</Brief>
       </Item>
     </List>
-  </div>)
+  )
 }
