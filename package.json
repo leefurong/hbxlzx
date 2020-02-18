@@ -17,6 +17,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "docker": "git pull origin master && npm install && npm start",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
