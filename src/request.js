@@ -38,5 +38,7 @@ export async function fetch(target, params) {
 }
 
 export async function fetchGroup(groupName) {
-  return doctors.filter(doctor => contains(doctor.tags, groupName));
+  return doctors.filter(
+    groupName === '*' ? _ => true : doctor => contains(doctor.tags, groupName)
+  );
 }

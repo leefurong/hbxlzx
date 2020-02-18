@@ -11,11 +11,11 @@ class App extends Component {
     super(props);
     this.state = {
       doctors: [],
-      tag_hash: 'all'
+      tagName: '*'
     };
   }
-  async fetchDoctors(tag_hash) {
-    return fetchGroup('A');
+  async fetchDoctors(tagName) {
+    return fetchGroup(tagName);
   }
   async componentWillMount() {
     const tag = this.props.match.params.tag;

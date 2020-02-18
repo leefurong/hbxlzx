@@ -4,6 +4,6 @@ import App from './App';
 
 export default () => (
   <Router>
-    <Route path="/:tag" component={App}></Route>
+    <Route path="/doctors/:tag" component={App}></Route>
   </Router>
 );
