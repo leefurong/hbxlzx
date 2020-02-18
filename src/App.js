@@ -4,6 +4,7 @@ import DoctorList from './components/DoctorList';
 import TagFilter from './components/TagFilter';
 import { tags } from './tags';
 import { fetchGroup } from './request.js';
+import 'antd-mobile/dist/antd-mobile.css';
 
 class App extends Component {
   constructor(props) {
