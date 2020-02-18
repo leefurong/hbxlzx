@@ -6,6 +6,6 @@ export const doctors = [
     staffId: '239841', // Excel: 员工id
     supportURL:
       'https://www.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239841', // Excel: 客服链接
-    avatar: '' // TODO 需要有一个方案
+    avatar: 'https://zos.alipayobjects.com/rmsportal/dNuvNrtqUztHCwM.png' // TODO 需要有一个方案
   }
 ];
