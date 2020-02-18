@@ -1,14 +1,17 @@
 import React from 'react'
+import Tag from './Tag.jsx'
 
 
 export default ({ info }) => {
-  const { avatar, name, description, tags } = info
+  const { avatar, name, intro, tags, supportURL } = info
   return (<div className="doctor-info">
-    <img src={avatar} className="round-icon" alt="" />
-    <div className="doctor-name">{name}</div>
-    <div className="doctor-description">{description}</div>
+    <a href={supportURL}>
+      <img src={avatar} className="round-icon" alt="" />
+      <div className="doctor-name">{name}</div>
+      <div className="doctor-intro">{intro}</div>
+    </a>
     <div className="tag-container">
-      {tags.map(tag => <div className="doctor-tag" key={tag}>{tag}</div>)}
+      {tags.split('').map(tag => <Tag tag={tag} key={tag} />)}
     </div>
   </div>)
 }
