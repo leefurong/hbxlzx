@@ -14,7 +14,7 @@ export default ({ info }) => {
       <Item arrow="horizontal" align="top"
         thumb={avatar}
         multipleLine
-        onClick={() => { window.location.replace("https://www.baidu.com"); }}>
+        onClick={() => { window.location.replace(supportURL); }}>
         {name}<Brief>{intro}</Brief>
 
         <div className="tag-container">
