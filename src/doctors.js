@@ -5,7 +5,7 @@ export const doctors = [
     tags: '', // Excel: 咨询分类
     staffId: '239841', // Excel: 员工id
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239841', // Excel: 客服链接
+      'https://www.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239841', // Excel: 客服链接
     avatar: '' // TODO 需要有一个方案
   }
 ];
