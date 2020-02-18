@@ -4,7 +4,7 @@ import Tag from './Tag.jsx'
 
 export default ({ info }) => {
   const { avatar, name, intro, tags, supportURL } = info
-  return (<div className="doctor-info">
+  return (<div className="doctor-info card">
     <a href={supportURL}>
       <img src={avatar} className="round-icon" alt="" />
       <div className="doctor-name">{name}</div>

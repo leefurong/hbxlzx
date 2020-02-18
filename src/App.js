@@ -18,16 +18,16 @@ class App extends Component {
     return fetchGroup(tagName);
   }
   async componentWillMount() {
-    const tag = this.props.match.params.tag;
-    const doctors = await this.fetchDoctors(tag);
-    this.setState({ doctors });
+    const tagName = this.props.match.params.tag;
+    const doctors = await this.fetchDoctors(tagName);
+    this.setState({ doctors, tagName });
   }
 
   render() {
     const { doctors } = this.state;
     return (
       <div className="App">
-        <TagFilter tags={tags} />
+        <TagFilter currentTag={this.state.tagName} />
         <DoctorList doctors={doctors} />
       </div>
     );
