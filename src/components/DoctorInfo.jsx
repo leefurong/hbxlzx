@@ -10,18 +10,18 @@ export default ({ info }) => {
   return (<div className="doctor-info card">
 
 
-  <List className="my-list">
+    <List className="my-list">
       <Item arrow="horizontal" align="top"
         thumb={avatar}
         multipleLine
-        onClick={() => { window.location.replace("https://www.baidu.com"); }}>
+        onClick={() => { window.location.replace(supportURL); }}>
         {name}<Brief>{intro}</Brief>
 
         <div className="tag-container">
-        {tags.split('').map(tag => <Tag tag={tag} key={tag} />)}
-      </div>
-      
-  </Item>
-</List>
+          {tags.split('').map(tag => <Tag tag={tag} key={tag} />)}
+        </div>
+
+      </Item>
+    </List>
   </div>)
 }
