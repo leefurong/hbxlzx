@@ -76,7 +76,7 @@ export const doctors = [
   {
     name: '向陈',
     intro: '国家二级人力资源师\n2019年完成ICF进化教练课程学习并取得结业证书',
-    tags: 'C F',
+    tags: 'CF',
     staffId: 239921,
     supportURL:
       'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115250&agent_id=239921'
