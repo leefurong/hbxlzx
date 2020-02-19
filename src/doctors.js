@@ -13,7 +13,7 @@ export const doctors = [
     tags: 'ADF',
     staffId: 239851,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115242&agent_id=239851'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239851'
   },
   {
     name: '王鑫',
@@ -21,7 +21,7 @@ export const doctors = [
     tags: 'ADEF',
     staffId: 239861,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115243&agent_id=239861'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239861'
   },
   {
     name: '高丽',
@@ -29,7 +29,7 @@ export const doctors = [
     tags: 'DEF',
     staffId: 239871,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115244&agent_id=239871'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239871'
   },
   {
     name: '赵逸轩',
@@ -37,7 +37,7 @@ export const doctors = [
     tags: 'ADEF',
     staffId: 239881,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115245&agent_id=239881'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239881'
   },
   {
     name: '张皓',
@@ -45,7 +45,7 @@ export const doctors = [
     tags: 'ACDF',
     staffId: 239891,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115246&agent_id=239891'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239891'
   },
   {
     name: '高正坤',
@@ -54,7 +54,7 @@ export const doctors = [
     tags: 'EF',
     staffId: 239901,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115247&agent_id=239901'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239901'
   },
   {
     name: '张骞',
@@ -62,7 +62,7 @@ export const doctors = [
     tags: 'E',
     staffId: 239761,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115248&agent_id=239761'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239761'
   },
   {
     name: '李雨健',
@@ -71,7 +71,7 @@ export const doctors = [
     tags: 'CDEF',
     staffId: 239911,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115249&agent_id=239911'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239911'
   },
   {
     name: '向陈',
@@ -79,7 +79,7 @@ export const doctors = [
     tags: 'CF',
     staffId: 239921,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115250&agent_id=239921'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239921'
   },
   {
     name: '刘飞',
@@ -87,7 +87,7 @@ export const doctors = [
     tags: 'EF',
     staffId: 239931,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115251&agent_id=239931'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239931'
   },
   {
     name: '张紫霞',
@@ -96,7 +96,7 @@ export const doctors = [
     tags: 'ADEF',
     staffId: 239941,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115252&agent_id=239941'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239941'
   },
   {
     name: '赵霞',
@@ -105,7 +105,7 @@ export const doctors = [
     tags: 'C',
     staffId: 239771,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115253&agent_id=239771'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239771'
   },
   {
     name: '陈亭如',
@@ -113,7 +113,7 @@ export const doctors = [
     tags: 'DF',
     staffId: 239951,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115254&agent_id=239951'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239951'
   },
   {
     name: '董水霞',
@@ -121,7 +121,7 @@ export const doctors = [
     tags: 'DF',
     staffId: 239961,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115255&agent_id=239961'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239961'
   },
   {
     name: '金怡',
@@ -129,7 +129,7 @@ export const doctors = [
     tags: 'DF',
     staffId: 239971,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115256&agent_id=239971'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239971'
   },
   {
     name: '方宗贤',
@@ -137,7 +137,7 @@ export const doctors = [
     tags: 'DF',
     staffId: 239981,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115257&agent_id=239981'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239981'
   },
   {
     name: '许丽丽',
@@ -145,7 +145,7 @@ export const doctors = [
     tags: 'DF',
     staffId: 239991,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115258&agent_id=239991'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239991'
   },
   {
     name: '王丽',
@@ -154,7 +154,7 @@ export const doctors = [
     tags: 'DF',
     staffId: 240001,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115259&agent_id=240001'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240001'
   },
   {
     name: '马云霞',
@@ -163,7 +163,7 @@ export const doctors = [
     tags: 'DF',
     staffId: 240011,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115260&agent_id=240011'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240011'
   },
   {
     name: '陈修文',
@@ -172,7 +172,7 @@ export const doctors = [
     tags: 'DF',
     staffId: 240021,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115261&agent_id=240021'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240021'
   },
   {
     name: '范赢',
@@ -181,7 +181,7 @@ export const doctors = [
     tags: 'AE',
     staffId: 240031,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115262&agent_id=240031'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240031'
   },
   {
     name: '宋依兰',
@@ -190,7 +190,7 @@ export const doctors = [
     tags: 'ACDEF',
     staffId: 240041,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115263&agent_id=240041'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240041'
   },
   {
     name: '徐珺泽',
@@ -198,7 +198,7 @@ export const doctors = [
     tags: 'ABDEF',
     staffId: 240051,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115264&agent_id=240051'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240051'
   },
   {
     name: '孙馨',
@@ -207,7 +207,7 @@ export const doctors = [
     tags: 'C',
     staffId: 239781,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115265&agent_id=239781'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239781'
   },
   {
     name: '卢春霞',
@@ -215,7 +215,7 @@ export const doctors = [
     tags: 'F',
     staffId: 239791,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115266&agent_id=239791'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239791'
   },
   {
     name: '菁珂',
@@ -223,7 +223,7 @@ export const doctors = [
     tags: 'CE',
     staffId: 240061,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115267&agent_id=240061'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240061'
   },
   {
     name: '张月欣',
@@ -231,7 +231,7 @@ export const doctors = [
     tags: 'CE',
     staffId: 240071,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115268&agent_id=240071'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240071'
   },
   {
     name: '孙千越',
@@ -239,7 +239,7 @@ export const doctors = [
     tags: 'E',
     staffId: 239801,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115269&agent_id=239801'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239801'
   },
   {
     name: '彭晶生',
@@ -247,7 +247,7 @@ export const doctors = [
     tags: 'ADEF',
     staffId: 240081,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115270&agent_id=240081'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240081'
   },
   {
     name: '刘霞',
@@ -255,7 +255,7 @@ export const doctors = [
     tags: 'F',
     staffId: 239811,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115271&agent_id=239811'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239811'
   },
   {
     name: '俞浩',
@@ -264,7 +264,7 @@ export const doctors = [
     tags: 'D',
     staffId: 239821,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115272&agent_id=239821'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239821'
   },
   {
     name: '杨兰',
@@ -272,7 +272,7 @@ export const doctors = [
     tags: 'EF',
     staffId: 240101,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115274&agent_id=240101'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240101'
   },
   {
     name: '吴菁飞',
@@ -280,7 +280,7 @@ export const doctors = [
     tags: 'B',
     staffId: 239831,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115275&agent_id=239831'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=239831'
   },
   {
     name: '郑铮一',
@@ -288,7 +288,7 @@ export const doctors = [
     tags: 'DF',
     staffId: 240111,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115276&agent_id=240111'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240111'
   },
   {
     name: '辛欣',
@@ -296,7 +296,7 @@ export const doctors = [
     tags: 'DF',
     staffId: 240121,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115277&agent_id=240121'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240121'
   },
   {
     name: '毛霞文',
@@ -304,7 +304,7 @@ export const doctors = [
     tags: 'DF',
     staffId: 240131,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115278&agent_id=240131'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240131'
   },
   {
     name: '刘海舰',
@@ -312,6 +312,6 @@ export const doctors = [
     tags: 'DF',
     staffId: 240141,
     supportURL:
-      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115279&agent_id=240141'
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240141'
   }
 ];
