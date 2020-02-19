@@ -38,8 +38,7 @@ export async function fetch(target, params) {
 }
 
 function getAvatar(staffId) {
-  // TODO: calculate url of avatar.
-  return '/' + staffId + '.png';
+  return 'http://q5xccnsj7.bkt.clouddn.com/' + staffId + '.png';
 }
 function injectAvatar(doctor) {
   const { staffId } = doctor;
