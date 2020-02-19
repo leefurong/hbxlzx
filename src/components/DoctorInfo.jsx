@@ -12,7 +12,7 @@ export default ({ info }) => {
       <Item arrow="horizontal" align="top"
         thumb={avatar}
         multipleLine
-        onClick={() => { window.location.replace(supportURL); }}>
+        onClick={() => { window.location = supportURL; }}>
         {name}<Brief>{intro}</Brief>
       </Item>
     </List>
