@@ -313,6 +313,79 @@ var doctors = [
     staffId: 240141,
     supportURL:
       'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240141'
+  },
+  {
+    name: '徐智泓',
+    staffId: 240831,
+    intro: `星原教练社创始人
+ ICF PCC 专业教练
+ 国家二级心理咨询师
+美国六秒钟情商实践家
+案例超过700小时`,
+    tags: 'ABDEF',
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240831'
+  },
+  {
+    name: '吴思',
+    staffId: 240841,
+    intro: `08年 5.12支援汶川抗震救灾
+国家二级心理咨询师`,
+    tags: 'E',
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240841'
+  },
+
+  {
+    name: '黄晓',
+    staffId: 240821,
+    intro: `ICF认证ACC、准PCC教练
+中科院心理研究所 心理教练
+案例超过300个小时`,
+    tags: 'ACEF',
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240821'
+  },
+  {
+    name: '黄小仙',
+    staffId: 240811,
+    intro: `从事护理35年
+主管护师职称
+注重身心健康调理`,
+    tags: 'B',
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240811'
+  },
+
+  {
+    name: '高丽娟',
+    staffId: 240861,
+    intro: `专业教练
+组织发展顾问
+项目运营总监`,
+    tags: 'ACDEF',
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240861'
+  },
+  {
+    name: '徐金亮',
+    staffId: 240931,
+    intro: `教育工作者
+情绪管理顾问导师`,
+    tags: 'E',
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240931'
+  },
+  {
+    name: '戎静',
+    staffId: 240801,
+    intro: `共创教练
+神经科学教练
+4D领导力
+15年案例超过2千小时`,
+    tags: 'ACDE',
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=240801'
   }
 ];
 
