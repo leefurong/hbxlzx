@@ -3,6 +3,7 @@ import axios from 'axios';
 import { groups } from './groups';
 import { doctors } from './doctors';
 import { contains } from './utils';
+import Qs from 'qs'
 axios.defaults.withCredentials = true;
 axios.defaults.headers.get['Access-Control-Allow-Origin'] = '*';
 const api = {
@@ -49,10 +50,16 @@ function injectAvatar(doctor) {
 export async function fetchGroup(groupName) {
   // TODO 连接服务器的事情搞定后， 我们把服务器上的数据和本地的比对。
   // 将医生的状态设为在线/离线/忙线。
-  // 如果某一个id在服务器上没有， 就从本地移除。
-  return doctors
-    .filter(
+  // dev
+  const { data } = await axios('/doctors')
+  // proc
+  // const { data } = await axios('http://127.0.0.1:3001/doctors')
+  console.log(data)
+  if (data.returnCode === 0) {
+    return data.arr.filter(
       groupName === '*' ? _ => true : doctor => contains(doctor.tags, groupName)
-    )
-    .map(injectAvatar);
+    ).map(injectAvatar)
+  } else {
+    return []
+  }
 }
