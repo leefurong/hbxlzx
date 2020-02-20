@@ -50,9 +50,9 @@ export async function fetchGroup(groupName) {
   // TODO 连接服务器的事情搞定后， 我们把服务器上的数据和本地的比对。
   // 将医生的状态设为在线/离线/忙线。
   // dev
-  const { data } = await axios('/doctors');
+  // const { data } = await axios('/doctors');
   // prod
-  // const { data } = await axios('http://127.0.0.1:3001/doctors')
+  const { data } = await axios('http://back.wuhan.zenkids01.com/doctors')
   console.log(data);
   if (data.returnCode === 0) {
     return data.arr

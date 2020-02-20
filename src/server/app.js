@@ -8,7 +8,7 @@ var sort = require('./DoctorsSort');
 app.use(
   cors({
     credentials: true,
-    origin: 'http://localhost:5000'
+    origin: 'http://wuhan.zenkids01.com/'
   })
 );
 
