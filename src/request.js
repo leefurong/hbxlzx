@@ -52,7 +52,7 @@ export async function fetchGroup(groupName) {
   // 将医生的状态设为在线/离线/忙线。
   // dev
   const { data } = await axios('/doctors')
-  // proc
+  // prod
   // const { data } = await axios('http://127.0.0.1:3001/doctors')
   console.log(data)
   if (data.returnCode === 0) {
