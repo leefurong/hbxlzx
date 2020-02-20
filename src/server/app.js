@@ -35,7 +35,9 @@ function getStatus(val) {
   }
 }
 app.get('/doctors', function(req, res){
-  axios.get('https://hbxlzx.udesk.cn/open_api_v1/im/agent_status?group_id=177051&email=hbxlzx@udesk.cn&timestamp=1581990568&sign=1ab410a30cc1a154bea19ab37ecade403ddeb477').then(({data}) => {
+  // timestamp 1581990568
+  // group_id=177051&
+  axios.get('https://hbxlzx.udesk.cn/open_api_v1/im/agent_status?email=hbxlzx@udesk.cn&timestamp=1581990568&sign=1ab410a30cc1a154bea19ab37ecade403ddeb477').then(({data}) => {
     console.log(data)
     var remoteArr = data.agents;
     remoteArr.map(itm => {
