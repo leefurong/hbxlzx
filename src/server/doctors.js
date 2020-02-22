@@ -100,8 +100,11 @@ var doctors = [
   },
   {
     name: '赵霞',
-    intro:
-      '加拿大埃里克森学院认证专业教练\n美国ICF准PCC教练\n芬兰儿童技能教养法（KS)专业讲师\nOH卡企业带领师\nOH卡教练\n高级人力资源管理师\nLOG视觉引导师',
+    intro: `埃里克森学院认证专业教练
+美国ICF准PCC级教练
+芬兰“儿童技能教养法”专业讲师
+OH卡企业带领师 
+OH卡教练`,
     tags: 'C',
     staffId: 239771,
     supportURL:
