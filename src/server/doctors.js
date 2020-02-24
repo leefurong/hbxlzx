@@ -531,6 +531,14 @@ OH卡教练`,
     email: '185935812@qq.com',
     supportURL:
       'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=241271'
+  },
+  {
+    name: '刘仁婧',
+    staffId: 241321,
+    intro: '培训师，埃里克森国际教练',
+    tags: 'ABD',
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=241321'
   }
 ];
 
