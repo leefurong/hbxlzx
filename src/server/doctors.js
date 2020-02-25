@@ -539,6 +539,14 @@ OH卡教练`,
     tags: 'ABD',
     supportURL:
       'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=241321'
+  },
+  {
+    name: '陈润',
+    staffId: 242281,
+    intro: '三级心理咨询师',
+    tags: 'ABCDF',
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=242281'
   }
 ];
 
