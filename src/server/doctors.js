@@ -547,6 +547,200 @@ OH卡教练`,
     tags: 'ABCDF',
     supportURL:
       'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=242281'
+  },
+  {
+    name: '洪燕',
+    staffId: 242901,
+    intro: '培训落地引导师，ICF认证CMP教练课程学员，\n商业教练',
+    photo: 1,
+    tags: 'ACDEF',
+    cellphone: 13918109757,
+    email: '13918109757@139.com',
+    treatment: 1,
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=242901'
+  },
+  {
+    name: '陈旭',
+    staffId: 242911,
+    intro: '教练，心理咨询师',
+    photo: 1,
+    tags: 'ABDEF',
+    cellphone: 13916215626,
+    email: '2542044041@qq.com',
+    treatment: 1,
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=242911'
+  },
+  {
+    name: '朱虹',
+    staffId: 242931,
+    intro: '埃里克森教练',
+    photo: 1,
+    tags: 'ABDEF',
+    cellphone: 13956995480,
+    email: 'hoya71@163.com',
+    treatment: 1,
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=242931'
+  },
+  {
+    name: '杨敏',
+    staffId: 242941,
+    intro: '国家二级心理咨询师',
+    photo: 1,
+    tags: 'ADEF',
+    cellphone: 13912617909,
+    email: '929385548@qq.com',
+    treatment: 1,
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=242941'
+  },
+  {
+    name: '陈亚彤',
+    staffId: 242951,
+    intro:
+      '全人教育工作者，曾留学并工作加拿大多年，在当地获得心理康复咨询资质和实践积累。\n相信每个人的自愈力量，愿与有缘人同行。',
+    photo: 1,
+    tags: 'CD',
+    cellphone: 13052031282,
+    email: 'cytdii@163.com',
+    treatment: 1,
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=242951'
+  },
+  {
+    name: '贺拥军',
+    staffId: 242971,
+    intro: '创问教练',
+    photo: 1,
+    tags: 'ABCDEF',
+    cellphone: 13817813378,
+    email: '13817813378@163.com',
+    treatment: 1,
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=242971'
+  },
+  {
+    name: '魏晓明',
+    staffId: 242981,
+    intro: '进化教练',
+    photo: 1,
+    tags: 'ADE',
+    cellphone: 13305715305,
+    email: 'mingcoachcenter@outlook.com',
+    treatment: 1,
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=242981'
+  },
+  {
+    name: 'Maggie洪群花',
+    staffId: 242991,
+    intro: '进化教练',
+    photo: 1,
+    tags: 'ADEF',
+    cellphone: 18616886055,
+    email: 'web_h@126.com',
+    treatment: 1,
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=242991'
+  },
+  {
+    name: '杜杏芳',
+    staffId: 243001,
+    intro: '心理咨询师',
+    photo: 1,
+    tags: 'CF',
+    cellphone: 13957145667,
+    email: 'xingfangdu@sina.com',
+    treatment: 1,
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=243001'
+  },
+  {
+    name: '李静',
+    staffId: 243011,
+    intro: '进化教练，心理咨询师',
+    photo: 1,
+    tags: 'AE',
+    cellphone: 18101672228,
+    email: 'cath_lj@126.com',
+    treatment: 1,
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=243011'
+  },
+  {
+    name: '吴云',
+    staffId: 243021,
+    intro: '埃里克森教练',
+    photo: 1,
+    tags: 'ADE',
+    cellphone: 13656118012,
+    email: '2019604816@qq.com',
+    treatment: 0,
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=243021'
+  },
+  {
+    name: '曹敬唯',
+    staffId: 243031,
+    intro: '盖乐普全球认证优势教练，人本教练',
+    photo: 1,
+    tags: 'ABCDEF',
+    cellphone: 18192627580,
+    email: 'shibangedu@qq.com',
+    treatment: 1,
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=243031'
+  },
+  {
+    name: '李昱喆',
+    staffId: 243041,
+    intro: '国家二级心理咨询师、亲子咨询师',
+    photo: 1,
+    tags: 'CDF',
+    cellphone: 13998174699,
+    email: '5059189@qq.com',
+    treatment: 1,
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=243041'
+  },
+  {
+    name: '戴文忠',
+    staffId: 243071,
+    intro: '埃里克森国际教练',
+    photo: 1,
+    tags: 'ADEF',
+    cellphone: 18759773101,
+    email: 'dwz.1977@163.com',
+    treatment: 1,
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=243071'
+  },
+  {
+    name: '吕秋玉',
+    staffId: 243081,
+    intro: 'ICF进化教练；国际行动学习促动师',
+    photo: 1,
+    tags: 'ABCDEF',
+    cellphone: 15154273232,
+    email: '874794312@qq.com',
+    treatment: 1,
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=243081'
+  },
+  {
+    name: '田雨',
+    staffId: 243091,
+    intro:
+      '2年儿童教育与发展心理学在职研究生学习经历；\n5年社会组织全职工作经验；非暴力沟通学习者',
+    photo: 1,
+    tags: 'C',
+    cellphone: 18501694208,
+    email: 'tian_yu921@163.com',
+    treatment: 1,
+    supportURL:
+      'https://hbxlzx.udesk.cn/im_client/?web_plugin_id=115241&agent_id=243091'
   }
 ];
 
