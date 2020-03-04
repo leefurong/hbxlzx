@@ -587,7 +587,7 @@ OH卡教练`,
   {
     name: '杨敏',
     staffId: 242941,
-    intro: '国家二级心理咨询师',
+    intro: '国家二级心理咨询师\n美国整合心理咨询师',
     photo: 1,
     tags: 'ADEF',
     cellphone: 13912617909,
